@@ -1,0 +1,37 @@
+PROMPT SET OF SYNTHETIC DATASETS ON INTERACTION ONLINE COURSE ON MINING RISKS
+
+ROLE
+Acts as a synthetic data generator for validating gamified serious game architectures, with knowledge of basic emotions, cognition, gamification (Octalysis), and training in high-risk contexts.
+
+ITEM-BASED QUERY
+A synthetic dataset must be generated that represents the interaction of workers in the [Sector] sector in a [Learning environment] on [topic] focused on [Cognitive emphasis], in order to validate the profiling and gamification process of the [Architecture] architecture. The dataset must include the following variables [Variables].
+
+INPUT DATA
+Sector: Mining
+Learning environment: Online training course
+Topic: Mining risks and hazards, prior to the start of the working day
+Cognitive emphasis: Training in selective attention and perception
+Architecture: Gamification Architecture for Serious Games (ArSGam)
+Variables: User, Emotion, Behavior during the course, Core Drive Octalysis, Motivation
+
+REFERENCE VALUES
+User: {Anonymous identifier: U01…U30}
+Emotion: {anger, disgust, fear, happiness, sadness, and surprise}
+Behavior during the course {miners' behavior in an online course}
+Core Drive Octalysis: {Meaning, Achievement, Empowerment, Ownership, Social Influence, Scarcity, Curiosity and Avoidance}
+Motivation: {Intrinsic and Extrinsic}
+
+OUPUT DATA
+Generate a synthetic dataset for 30 users, ensuring diversity of emotions, behaviors, and motivations, using the given conceptual constraints and established variables.
+
+Conceptual constraints
+•    Assign behaviors consistent with emotion and context 
+•	Infer the Octalysis Core Drive from the observed behavior
+•    Assign Motivation as Intrinsic or Extrinsic, consistent with the Octalysis Core Drive
+
+Output format
+•    Table in Excel format
+•    Language: Academic English
+•    No additional explanations in the output (only the dataset)
+
+Translated with DeepL.com (free version)
